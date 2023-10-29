@@ -1,0 +1,70 @@
+Iteration 1:
+[34m2023-10-06 13:28:36.073 IST 0001 INFO[0m [chaincodeCmd] [34;1mchaincodeInvokeOrQuery[0m -> Chaincode invoke successful. result: status:200 payload:"PersonA -> PersonD" 
+[34m2023-10-06 13:28:36.076 IST 0001 INFO[0m [chaincodeCmd] [34;1mchaincodeInvokeOrQuery[0m -> Chaincode invoke successful. result: status:200 payload:"PersonA -> PersonE" 
+[34m2023-10-06 13:28:36.079 IST 0001 INFO[0m [chaincodeCmd] [34;1mchaincodeInvokeOrQuery[0m -> Chaincode invoke successful. result: status:200 payload:"PersonA -> PersonC" 
+[34m2023-10-06 13:28:36.082 IST 0001 INFO[0m [chaincodeCmd] [34;1mchaincodeInvokeOrQuery[0m -> Chaincode invoke successful. result: status:200 payload:"PersonA -> PersonB" 
+[34m2023-10-06 13:28:36.101 IST 0001 INFO[0m [chaincodeCmd] [34;1mchaincodeInvokeOrQuery[0m -> Chaincode invoke successful. result: status:200 payload:"PersonA -> PersonA" 
+===================
+Iteration 2:
+[34m2023-10-06 13:28:36.158 IST 0001 INFO[0m [chaincodeCmd] [34;1mchaincodeInvokeOrQuery[0m -> Chaincode invoke successful. result: status:200 payload:"PersonA -> PersonE" 
+[34m2023-10-06 13:28:36.166 IST 0001 INFO[0m [chaincodeCmd] [34;1mchaincodeInvokeOrQuery[0m -> Chaincode invoke successful. result: status:200 payload:"PersonA -> PersonA" 
+[34m2023-10-06 13:28:36.170 IST 0001 INFO[0m [chaincodeCmd] [34;1mchaincodeInvokeOrQuery[0m -> Chaincode invoke successful. result: status:200 payload:"PersonA -> PersonC" 
+[34m2023-10-06 13:28:36.175 IST 0001 INFO[0m [chaincodeCmd] [34;1mchaincodeInvokeOrQuery[0m -> Chaincode invoke successful. result: status:200 payload:"PersonA -> PersonD" 
+[34m2023-10-06 13:28:36.177 IST 0001 INFO[0m [chaincodeCmd] [34;1mchaincodeInvokeOrQuery[0m -> Chaincode invoke successful. result: status:200 payload:"PersonA -> PersonB" 
+===================
+Iteration 3:
+[34m2023-10-06 13:28:36.230 IST 0001 INFO[0m [chaincodeCmd] [34;1mchaincodeInvokeOrQuery[0m -> Chaincode invoke successful. result: status:200 payload:"PersonA -> PersonC" 
+[34m2023-10-06 13:28:36.231 IST 0001 INFO[0m [chaincodeCmd] [34;1mchaincodeInvokeOrQuery[0m -> Chaincode invoke successful. result: status:200 payload:"PersonA -> PersonB" 
+[34m2023-10-06 13:28:36.232 IST 0001 INFO[0m [chaincodeCmd] [34;1mchaincodeInvokeOrQuery[0m -> Chaincode invoke successful. result: status:200 payload:"PersonA -> PersonE" 
+[34m2023-10-06 13:28:36.245 IST 0001 INFO[0m [chaincodeCmd] [34;1mchaincodeInvokeOrQuery[0m -> Chaincode invoke successful. result: status:200 payload:"PersonA -> PersonA" 
+[34m2023-10-06 13:28:36.250 IST 0001 INFO[0m [chaincodeCmd] [34;1mchaincodeInvokeOrQuery[0m -> Chaincode invoke successful. result: status:200 payload:"PersonA -> PersonD" 
+===================
+Iteration 4:
+[34m2023-10-06 13:28:36.330 IST 0001 INFO[0m [chaincodeCmd] [34;1mchaincodeInvokeOrQuery[0m -> Chaincode invoke successful. result: status:200 payload:"PersonA -> PersonA" 
+[34m2023-10-06 13:28:36.337 IST 0001 INFO[0m [chaincodeCmd] [34;1mchaincodeInvokeOrQuery[0m -> Chaincode invoke successful. result: status:200 payload:"PersonA -> PersonD" 
+[34m2023-10-06 13:28:36.341 IST 0001 INFO[0m [chaincodeCmd] [34;1mchaincodeInvokeOrQuery[0m -> Chaincode invoke successful. result: status:200 payload:"PersonA -> PersonC" 
+[34m2023-10-06 13:28:36.858 IST 0001 INFO[0m [chaincodeCmd] [34;1mchaincodeInvokeOrQuery[0m -> Chaincode invoke successful. result: status:200 payload:"PersonD -> PersonB" 
+[34m2023-10-06 13:28:36.859 IST 0001 INFO[0m [chaincodeCmd] [34;1mchaincodeInvokeOrQuery[0m -> Chaincode invoke successful. result: status:200 payload:"PersonD -> PersonE" 
+===================
+Iteration 5:
+[34m2023-10-06 13:28:37.002 IST 0001 INFO[0m [chaincodeCmd] [34;1mchaincodeInvokeOrQuery[0m -> Chaincode invoke successful. result: status:200 payload:"PersonD -> PersonE" 
+[34m2023-10-06 13:28:37.009 IST 0001 INFO[0m [chaincodeCmd] [34;1mchaincodeInvokeOrQuery[0m -> Chaincode invoke successful. result: status:200 payload:"PersonD -> PersonB" 
+[34m2023-10-06 13:28:37.016 IST 0001 INFO[0m [chaincodeCmd] [34;1mchaincodeInvokeOrQuery[0m -> Chaincode invoke successful. result: status:200 payload:"PersonD -> PersonD" 
+Error: could not assemble transaction: ProposalResponsePayloads do not match (base64): 'CiA8G80M+EngC2SJDevX4Ey6VcWQk//In7FjD+jz4PQK/xLZAQqvARI2CgpfbGlmZWN5Y2xlEigKJgogbmFtZXNwYWNlcy9maWVsZHMvYmFzaWMvU2VxdWVuY2USAggFEnUKBWJhc2ljEmwKDgoGYXNzZXQ2EgQICBAIGloKBmFzc2V0NhpQeyJBcHByYWlzZWRWYWx1ZSI6ODAwLCJDb2xvciI6IndoaXRlIiwiSUQiOiJhc3NldDYiLCJPd25lciI6IlBlcnNvbkMiLCJTaXplIjoxNX0aFwjIARoSUGVyc29uQiAtPiBQZXJzb25DIgwSBWJhc2ljGgMxLjA=' vs 'CiA8G80M+EngC2SJDevX4Ey6VcWQk//In7FjD+jz4PQK/xLXAQqtARI2CgpfbGlmZWN5Y2xlEigKJgogbmFtZXNwYWNlcy9maWVsZHMvYmFzaWMvU2VxdWVuY2USAggFEnMKBWJhc2ljEmoKDAoGYXNzZXQ2EgIIBxpaCgZhc3NldDYaUHsiQXBwcmFpc2VkVmFsdWUiOjgwMCwiQ29sb3IiOiJ3aGl0ZSIsIklEIjoiYXNzZXQ2IiwiT3duZXIiOiJQZXJzb25DIiwiU2l6ZSI6MTV9GhcIyAEaElBlcnNvbkQgLT4gUGVyc29uQyIMEgViYXNpYxoDMS4w' - proposal response: version:1 response:<status:200 payload:"PersonD -> PersonC" > payload:"\n <\033\315\014\370I\340\013d\211\r\353\327\340L\272U\305\220\223\377\310\237\261c\017\350\363\340\364\n\377\022\327\001\n\255\001\0226\n\n_lifecycle\022(\n&\n namespaces/fields/basic/Sequence\022\002\010\005\022s\n\005basic\022j\n\014\n\006asset6\022\002\010\007\032Z\n\006asset6\032P{\"AppraisedValue\":800,\"Color\":\"white\",\"ID\":\"asset6\",\"Owner\":\"PersonC\",\"Size\":15}\032\027\010\310\001\032\022PersonD -> PersonC\"\014\022\005basic\032\0031.0" endorsement:<endorser:"\n\007Org1MSP\022\252\006-----BEGIN CERTIFICATE-----\nMIICKDCCAc6gAwIBAgIQZRe4s84P747QbZdGzucn8zAKBggqhkjOPQQDAjBzMQsw\nCQYDVQQGEwJVUzETMBEGA1UECBMKQ2FsaWZvcm5pYTEWMBQGA1UEBxMNU2FuIEZy\nYW5jaXNjbzEZMBcGA1UEChMQb3JnMS5leGFtcGxlLmNvbTEcMBoGA1UEAxMTY2Eu\nb3JnMS5leGFtcGxlLmNvbTAeFw0yMzEwMDYwNzUxMDBaFw0zMzEwMDMwNzUxMDBa\nMGoxCzAJBgNVBAYTAlVTMRMwEQYDVQQIEwpDYWxpZm9ybmlhMRYwFAYDVQQHEw1T\nYW4gRnJhbmNpc2NvMQ0wCwYDVQQLEwRwZWVyMR8wHQYDVQQDExZwZWVyMC5vcmcx\nLmV4YW1wbGUuY29tMFkwEwYHKoZIzj0CAQYIKoZIzj0DAQcDQgAEB78fAvr+60qX\nAUjFqa40wnam5ggSmb6kU1OD6Tt3XQ89qLC/dzR7HmSUQOeot4OATp1Ot4EXyG15\nXfj78NB9TaNNMEswDgYDVR0PAQH/BAQDAgeAMAwGA1UdEwEB/wQCMAAwKwYDVR0j\nBCQwIoAgsfwHFfLHdigvfYYC/23MdutiXTn0yS3uZlqET38qUZQwCgYIKoZIzj0E\nAwIDSAAwRQIhAOLzVwIfJXzz2JmAHFmq5cjlo7qlIApshGLmLlmRO09HAiB9zTcg\nWyYgkE6mpD7H8O5SGAYTGE5QYtVvVRoTtOOcPQ==\n-----END CERTIFICATE-----\n" signature:"0D\002 ;\306$>\032\215\233\340\240\010\370;I-\037\002a\217I\3511\"`\001r\000T\217S\200\024\001\002 l\256\266l\023;\306Q\201\215q\3471\222!h\030\310\345<r\360W\217r%T\271k\\\005\032" > interest:<chaincodes:<name:"basic" > > 
+Error: could not assemble transaction: ProposalResponsePayloads do not match (base64): 'CiC+pR5Vk6ACc8tvW5CR612wpjEBjCgno6sP/d9tb0gkCRLZAQqvARI2CgpfbGlmZWN5Y2xlEigKJgogbmFtZXNwYWNlcy9maWVsZHMvYmFzaWMvU2VxdWVuY2USAggFEnUKBWJhc2ljEmwKDgoGYXNzZXQ2EgQICBAIGloKBmFzc2V0NhpQeyJBcHByYWlzZWRWYWx1ZSI6ODAwLCJDb2xvciI6IndoaXRlIiwiSUQiOiJhc3NldDYiLCJPd25lciI6IlBlcnNvbkEiLCJTaXplIjoxNX0aFwjIARoSUGVyc29uQiAtPiBQZXJzb25BIgwSBWJhc2ljGgMxLjA=' vs 'CiC+pR5Vk6ACc8tvW5CR612wpjEBjCgno6sP/d9tb0gkCRLXAQqtARI2CgpfbGlmZWN5Y2xlEigKJgogbmFtZXNwYWNlcy9maWVsZHMvYmFzaWMvU2VxdWVuY2USAggFEnMKBWJhc2ljEmoKDAoGYXNzZXQ2EgIIBxpaCgZhc3NldDYaUHsiQXBwcmFpc2VkVmFsdWUiOjgwMCwiQ29sb3IiOiJ3aGl0ZSIsIklEIjoiYXNzZXQ2IiwiT3duZXIiOiJQZXJzb25BIiwiU2l6ZSI6MTV9GhcIyAEaElBlcnNvbkQgLT4gUGVyc29uQSIMEgViYXNpYxoDMS4w' - proposal response: version:1 response:<status:200 payload:"PersonD -> PersonA" > payload:"\n \276\245\036U\223\240\002s\313o[\220\221\353]\260\2461\001\214('\243\253\017\375\337moH$\t\022\327\001\n\255\001\0226\n\n_lifecycle\022(\n&\n namespaces/fields/basic/Sequence\022\002\010\005\022s\n\005basic\022j\n\014\n\006asset6\022\002\010\007\032Z\n\006asset6\032P{\"AppraisedValue\":800,\"Color\":\"white\",\"ID\":\"asset6\",\"Owner\":\"PersonA\",\"Size\":15}\032\027\010\310\001\032\022PersonD -> PersonA\"\014\022\005basic\032\0031.0" endorsement:<endorser:"\n\007Org1MSP\022\252\006-----BEGIN CERTIFICATE-----\nMIICKDCCAc6gAwIBAgIQZRe4s84P747QbZdGzucn8zAKBggqhkjOPQQDAjBzMQsw\nCQYDVQQGEwJVUzETMBEGA1UECBMKQ2FsaWZvcm5pYTEWMBQGA1UEBxMNU2FuIEZy\nYW5jaXNjbzEZMBcGA1UEChMQb3JnMS5leGFtcGxlLmNvbTEcMBoGA1UEAxMTY2Eu\nb3JnMS5leGFtcGxlLmNvbTAeFw0yMzEwMDYwNzUxMDBaFw0zMzEwMDMwNzUxMDBa\nMGoxCzAJBgNVBAYTAlVTMRMwEQYDVQQIEwpDYWxpZm9ybmlhMRYwFAYDVQQHEw1T\nYW4gRnJhbmNpc2NvMQ0wCwYDVQQLEwRwZWVyMR8wHQYDVQQDExZwZWVyMC5vcmcx\nLmV4YW1wbGUuY29tMFkwEwYHKoZIzj0CAQYIKoZIzj0DAQcDQgAEB78fAvr+60qX\nAUjFqa40wnam5ggSmb6kU1OD6Tt3XQ89qLC/dzR7HmSUQOeot4OATp1Ot4EXyG15\nXfj78NB9TaNNMEswDgYDVR0PAQH/BAQDAgeAMAwGA1UdEwEB/wQCMAAwKwYDVR0j\nBCQwIoAgsfwHFfLHdigvfYYC/23MdutiXTn0yS3uZlqET38qUZQwCgYIKoZIzj0E\nAwIDSAAwRQIhAOLzVwIfJXzz2JmAHFmq5cjlo7qlIApshGLmLlmRO09HAiB9zTcg\nWyYgkE6mpD7H8O5SGAYTGE5QYtVvVRoTtOOcPQ==\n-----END CERTIFICATE-----\n" signature:"0E\002!\000\371HO\217T\261\375\251\316\016\017\301\037\014f\210F\036\367f\345\231\032\376\022~\340\3233\364\022b\002 hI_T\342\220\177M2*\335i\263\355\201\377\217j\034\360v\347\230\373?\341\322/\r\\\236\371" > interest:<chaincodes:<name:"basic" > > 
+===================
+Iteration 6:
+[34m2023-10-06 13:28:37.794 IST 0001 INFO[0m [chaincodeCmd] [34;1mchaincodeInvokeOrQuery[0m -> Chaincode invoke successful. result: status:200 payload:"PersonB -> PersonC" 
+[34m2023-10-06 13:28:37.795 IST 0001 INFO[0m [chaincodeCmd] [34;1mchaincodeInvokeOrQuery[0m -> Chaincode invoke successful. result: status:200 payload:"PersonB -> PersonE" 
+[34m2023-10-06 13:28:37.796 IST 0001 INFO[0m [chaincodeCmd] [34;1mchaincodeInvokeOrQuery[0m -> Chaincode invoke successful. result: status:200 payload:"PersonB -> PersonA" 
+[34m2023-10-06 13:28:37.796 IST 0001 INFO[0m [chaincodeCmd] [34;1mchaincodeInvokeOrQuery[0m -> Chaincode invoke successful. result: status:200 payload:"PersonB -> PersonB" 
+[34m2023-10-06 13:28:37.797 IST 0001 INFO[0m [chaincodeCmd] [34;1mchaincodeInvokeOrQuery[0m -> Chaincode invoke successful. result: status:200 payload:"PersonB -> PersonD" 
+===================
+Iteration 7:
+[34m2023-10-06 13:28:37.954 IST 0001 INFO[0m [chaincodeCmd] [34;1mchaincodeInvokeOrQuery[0m -> Chaincode invoke successful. result: status:200 payload:"PersonB -> PersonB" 
+[34m2023-10-06 13:28:38.341 IST 0001 INFO[0m [chaincodeCmd] [34;1mchaincodeInvokeOrQuery[0m -> Chaincode invoke successful. result: status:200 payload:"PersonB -> PersonC" 
+[34m2023-10-06 13:28:38.341 IST 0001 INFO[0m [chaincodeCmd] [34;1mchaincodeInvokeOrQuery[0m -> Chaincode invoke successful. result: status:200 payload:"PersonB -> PersonD" 
+[34m2023-10-06 13:28:38.344 IST 0001 INFO[0m [chaincodeCmd] [34;1mchaincodeInvokeOrQuery[0m -> Chaincode invoke successful. result: status:200 payload:"PersonB -> PersonE" 
+[34m2023-10-06 13:28:38.354 IST 0001 INFO[0m [chaincodeCmd] [34;1mchaincodeInvokeOrQuery[0m -> Chaincode invoke successful. result: status:200 payload:"PersonB -> PersonA" 
+===================
+Iteration 8:
+[34m2023-10-06 13:28:38.437 IST 0001 INFO[0m [chaincodeCmd] [34;1mchaincodeInvokeOrQuery[0m -> Chaincode invoke successful. result: status:200 payload:"PersonB -> PersonE" 
+[34m2023-10-06 13:28:38.450 IST 0001 INFO[0m [chaincodeCmd] [34;1mchaincodeInvokeOrQuery[0m -> Chaincode invoke successful. result: status:200 payload:"PersonB -> PersonA" 
+[34m2023-10-06 13:28:38.450 IST 0001 INFO[0m [chaincodeCmd] [34;1mchaincodeInvokeOrQuery[0m -> Chaincode invoke successful. result: status:200 payload:"PersonB -> PersonD" 
+[34m2023-10-06 13:28:38.462 IST 0001 INFO[0m [chaincodeCmd] [34;1mchaincodeInvokeOrQuery[0m -> Chaincode invoke successful. result: status:200 payload:"PersonB -> PersonC" 
+[34m2023-10-06 13:28:38.463 IST 0001 INFO[0m [chaincodeCmd] [34;1mchaincodeInvokeOrQuery[0m -> Chaincode invoke successful. result: status:200 payload:"PersonB -> PersonB" 
+===================
+Iteration 9:
+[34m2023-10-06 13:28:38.936 IST 0001 INFO[0m [chaincodeCmd] [34;1mchaincodeInvokeOrQuery[0m -> Chaincode invoke successful. result: status:200 payload:"PersonC -> PersonD" 
+[34m2023-10-06 13:28:38.936 IST 0001 INFO[0m [chaincodeCmd] [34;1mchaincodeInvokeOrQuery[0m -> Chaincode invoke successful. result: status:200 payload:"PersonC -> PersonC" 
+[34m2023-10-06 13:28:38.940 IST 0001 INFO[0m [chaincodeCmd] [34;1mchaincodeInvokeOrQuery[0m -> Chaincode invoke successful. result: status:200 payload:"PersonC -> PersonA" 
+[34m2023-10-06 13:28:38.941 IST 0001 INFO[0m [chaincodeCmd] [34;1mchaincodeInvokeOrQuery[0m -> Chaincode invoke successful. result: status:200 payload:"PersonC -> PersonB" 
+[34m2023-10-06 13:28:38.941 IST 0001 INFO[0m [chaincodeCmd] [34;1mchaincodeInvokeOrQuery[0m -> Chaincode invoke successful. result: status:200 payload:"PersonC -> PersonE" 
+===================
+Iteration 10:
+[34m2023-10-06 13:28:39.387 IST 0001 INFO[0m [chaincodeCmd] [34;1mchaincodeInvokeOrQuery[0m -> Chaincode invoke successful. result: status:200 payload:"PersonC -> PersonC" 
+[34m2023-10-06 13:28:39.400 IST 0001 INFO[0m [chaincodeCmd] [34;1mchaincodeInvokeOrQuery[0m -> Chaincode invoke successful. result: status:200 payload:"PersonC -> PersonE" 
+[34m2023-10-06 13:28:39.400 IST 0001 INFO[0m [chaincodeCmd] [34;1mchaincodeInvokeOrQuery[0m -> Chaincode invoke successful. result: status:200 payload:"PersonC -> PersonB" 
+[34m2023-10-06 13:28:39.403 IST 0001 INFO[0m [chaincodeCmd] [34;1mchaincodeInvokeOrQuery[0m -> Chaincode invoke successful. result: status:200 payload:"PersonC -> PersonD" 
+[34m2023-10-06 13:28:39.405 IST 0001 INFO[0m [chaincodeCmd] [34;1mchaincodeInvokeOrQuery[0m -> Chaincode invoke successful. result: status:200 payload:"PersonC -> PersonA" 
+===================

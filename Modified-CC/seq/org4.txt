@@ -1,0 +1,70 @@
+Iteration 1:
+[34m2023-10-06 13:58:18.151 IST 0001 INFO[0m [chaincodeCmd] [34;1mchaincodeInvokeOrQuery[0m -> Chaincode invoke successful. result: status:200 payload:"PersonA -> PersonE" 
+Error: endorsement failure during invoke. response: status:500 message:"Asset with ID asset6 is not owned by PersonE" 
+Error: endorsement failure during invoke. response: status:500 message:"Asset with ID asset6 is not owned by PersonD" 
+Error: endorsement failure during invoke. response: status:500 message:"Asset with ID asset6 is not owned by PersonC" 
+Error: endorsement failure during invoke. response: status:500 message:"Asset with ID asset6 is not owned by PersonB" 
+===================
+Iteration 2:
+[34m2023-10-06 13:58:18.372 IST 0001 INFO[0m [chaincodeCmd] [34;1mchaincodeInvokeOrQuery[0m -> Chaincode invoke successful. result: status:200 payload:"PersonA -> PersonE" 
+Error: endorsement failure during invoke. response: status:500 message:"Asset with ID asset6 is not owned by PersonE" 
+Error: endorsement failure during invoke. response: status:500 message:"Asset with ID asset6 is not owned by PersonD" 
+Error: endorsement failure during invoke. response: status:500 message:"Asset with ID asset6 is not owned by PersonC" 
+Error: endorsement failure during invoke. response: status:500 message:"Asset with ID asset6 is not owned by PersonB" 
+===================
+Iteration 3:
+[34m2023-10-06 13:58:18.588 IST 0001 INFO[0m [chaincodeCmd] [34;1mchaincodeInvokeOrQuery[0m -> Chaincode invoke successful. result: status:200 payload:"PersonA -> PersonE" 
+Error: endorsement failure during invoke. response: status:500 message:"Asset with ID asset6 is not owned by PersonE" 
+Error: endorsement failure during invoke. response: status:500 message:"Asset with ID asset6 is not owned by PersonD" 
+Error: endorsement failure during invoke. response: status:500 message:"Asset with ID asset6 is not owned by PersonC" 
+Error: endorsement failure during invoke. response: status:500 message:"Asset with ID asset6 is not owned by PersonB" 
+===================
+Iteration 4:
+[34m2023-10-06 13:58:18.806 IST 0001 INFO[0m [chaincodeCmd] [34;1mchaincodeInvokeOrQuery[0m -> Chaincode invoke successful. result: status:200 payload:"PersonA -> PersonE" 
+Error: endorsement failure during invoke. response: status:500 message:"Asset with ID asset6 is not owned by PersonE" 
+Error: endorsement failure during invoke. response: status:500 message:"Asset with ID asset6 is not owned by PersonD" 
+Error: endorsement failure during invoke. response: status:500 message:"Asset with ID asset6 is not owned by PersonC" 
+Error: endorsement failure during invoke. response: status:500 message:"Asset with ID asset6 is not owned by PersonB" 
+===================
+Iteration 5:
+[34m2023-10-06 13:58:19.012 IST 0001 INFO[0m [chaincodeCmd] [34;1mchaincodeInvokeOrQuery[0m -> Chaincode invoke successful. result: status:200 payload:"PersonA -> PersonE" 
+Error: endorsement failure during invoke. response: status:500 message:"Asset with ID asset6 is not owned by PersonE" 
+Error: endorsement failure during invoke. response: status:500 message:"Asset with ID asset6 is not owned by PersonD" 
+Error: endorsement failure during invoke. response: status:500 message:"Asset with ID asset6 is not owned by PersonC" 
+[34m2023-10-06 13:58:19.537 IST 0001 INFO[0m [chaincodeCmd] [34;1mchaincodeInvokeOrQuery[0m -> Chaincode invoke successful. result: status:200 payload:"PersonB -> PersonA" 
+===================
+Iteration 6:
+Error: endorsement failure during invoke. response: status:500 message:"Asset with ID asset6 is not owned by PersonA" 
+Error: endorsement failure during invoke. response: status:500 message:"Asset with ID asset6 is not owned by PersonE" 
+Error: endorsement failure during invoke. response: status:500 message:"Asset with ID asset6 is not owned by PersonD" 
+Error: endorsement failure during invoke. response: status:500 message:"Asset with ID asset6 is not owned by PersonC" 
+[34m2023-10-06 13:58:19.738 IST 0001 INFO[0m [chaincodeCmd] [34;1mchaincodeInvokeOrQuery[0m -> Chaincode invoke successful. result: status:200 payload:"PersonB -> PersonA" 
+===================
+Iteration 7:
+Error: endorsement failure during invoke. response: status:500 message:"Asset with ID asset6 is not owned by PersonA" 
+Error: endorsement failure during invoke. response: status:500 message:"Asset with ID asset6 is not owned by PersonE" 
+Error: endorsement failure during invoke. response: status:500 message:"Asset with ID asset6 is not owned by PersonD" 
+Error: endorsement failure during invoke. response: status:500 message:"Asset with ID asset6 is not owned by PersonC" 
+[34m2023-10-06 13:58:19.948 IST 0001 INFO[0m [chaincodeCmd] [34;1mchaincodeInvokeOrQuery[0m -> Chaincode invoke successful. result: status:200 payload:"PersonB -> PersonA" 
+===================
+Iteration 8:
+Error: endorsement failure during invoke. response: status:500 message:"Asset with ID asset6 is not owned by PersonA" 
+Error: endorsement failure during invoke. response: status:500 message:"Asset with ID asset6 is not owned by PersonE" 
+Error: endorsement failure during invoke. response: status:500 message:"Asset with ID asset6 is not owned by PersonD" 
+Error: endorsement failure during invoke. response: status:500 message:"Asset with ID asset6 is not owned by PersonC" 
+[34m2023-10-06 13:58:20.146 IST 0001 INFO[0m [chaincodeCmd] [34;1mchaincodeInvokeOrQuery[0m -> Chaincode invoke successful. result: status:200 payload:"PersonB -> PersonA" 
+===================
+Iteration 9:
+Error: endorsement failure during invoke. response: status:500 message:"Asset with ID asset6 is not owned by PersonA" 
+Error: endorsement failure during invoke. response: status:500 message:"Asset with ID asset6 is not owned by PersonE" 
+Error: endorsement failure during invoke. response: status:500 message:"Asset with ID asset6 is not owned by PersonD" 
+Error: endorsement failure during invoke. response: status:500 message:"Asset with ID asset6 is not owned by PersonC" 
+[34m2023-10-06 13:58:20.344 IST 0001 INFO[0m [chaincodeCmd] [34;1mchaincodeInvokeOrQuery[0m -> Chaincode invoke successful. result: status:200 payload:"PersonB -> PersonA" 
+===================
+Iteration 10:
+Error: endorsement failure during invoke. response: status:500 message:"Asset with ID asset6 is not owned by PersonA" 
+Error: endorsement failure during invoke. response: status:500 message:"Asset with ID asset6 is not owned by PersonE" 
+Error: endorsement failure during invoke. response: status:500 message:"Asset with ID asset6 is not owned by PersonD" 
+Error: endorsement failure during invoke. response: status:500 message:"Asset with ID asset6 is not owned by PersonC" 
+Error: endorsement failure during invoke. response: status:500 message:"Asset with ID asset6 is not owned by PersonB" 
+===================

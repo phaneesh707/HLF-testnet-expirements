@@ -1,0 +1,70 @@
+Iteration 1:
+[34m2023-10-06 13:28:36.858 IST 0001 INFO[0m [chaincodeCmd] [34;1mchaincodeInvokeOrQuery[0m -> Chaincode invoke successful. result: status:200 payload:"PersonD -> PersonA" 
+[34m2023-10-06 13:28:36.858 IST 0001 INFO[0m [chaincodeCmd] [34;1mchaincodeInvokeOrQuery[0m -> Chaincode invoke successful. result: status:200 payload:"PersonD -> PersonC" 
+[34m2023-10-06 13:28:36.858 IST 0001 INFO[0m [chaincodeCmd] [34;1mchaincodeInvokeOrQuery[0m -> Chaincode invoke successful. result: status:200 payload:"PersonD -> PersonB" 
+[34m2023-10-06 13:28:36.860 IST 0001 INFO[0m [chaincodeCmd] [34;1mchaincodeInvokeOrQuery[0m -> Chaincode invoke successful. result: status:200 payload:"PersonD -> PersonE" 
+[34m2023-10-06 13:28:36.868 IST 0001 INFO[0m [chaincodeCmd] [34;1mchaincodeInvokeOrQuery[0m -> Chaincode invoke successful. result: status:200 payload:"PersonD -> PersonD" 
+===================
+Iteration 2:
+[34m2023-10-06 13:28:37.002 IST 0001 INFO[0m [chaincodeCmd] [34;1mchaincodeInvokeOrQuery[0m -> Chaincode invoke successful. result: status:200 payload:"PersonD -> PersonA" 
+[34m2023-10-06 13:28:37.019 IST 0001 INFO[0m [chaincodeCmd] [34;1mchaincodeInvokeOrQuery[0m -> Chaincode invoke successful. result: status:200 payload:"PersonD -> PersonE" 
+[34m2023-10-06 13:28:37.029 IST 0001 INFO[0m [chaincodeCmd] [34;1mchaincodeInvokeOrQuery[0m -> Chaincode invoke successful. result: status:200 payload:"PersonD -> PersonD" 
+[34m2023-10-06 13:28:37.034 IST 0001 INFO[0m [chaincodeCmd] [34;1mchaincodeInvokeOrQuery[0m -> Chaincode invoke successful. result: status:200 payload:"PersonD -> PersonC" 
+[34m2023-10-06 13:28:37.429 IST 0001 INFO[0m [chaincodeCmd] [34;1mchaincodeInvokeOrQuery[0m -> Chaincode invoke successful. result: status:200 payload:"PersonB -> PersonB" 
+===================
+Iteration 3:
+[34m2023-10-06 13:28:37.797 IST 0001 INFO[0m [chaincodeCmd] [34;1mchaincodeInvokeOrQuery[0m -> Chaincode invoke successful. result: status:200 payload:"PersonB -> PersonD" 
+[34m2023-10-06 13:28:37.797 IST 0001 INFO[0m [chaincodeCmd] [34;1mchaincodeInvokeOrQuery[0m -> Chaincode invoke successful. result: status:200 payload:"PersonB -> PersonC" 
+[34m2023-10-06 13:28:37.808 IST 0001 INFO[0m [chaincodeCmd] [34;1mchaincodeInvokeOrQuery[0m -> Chaincode invoke successful. result: status:200 payload:"PersonB -> PersonA" 
+[34m2023-10-06 13:28:37.808 IST 0001 INFO[0m [chaincodeCmd] [34;1mchaincodeInvokeOrQuery[0m -> Chaincode invoke successful. result: status:200 payload:"PersonB -> PersonB" 
+[34m2023-10-06 13:28:37.808 IST 0001 INFO[0m [chaincodeCmd] [34;1mchaincodeInvokeOrQuery[0m -> Chaincode invoke successful. result: status:200 payload:"PersonB -> PersonE" 
+===================
+Iteration 4:
+[34m2023-10-06 13:28:37.968 IST 0001 INFO[0m [chaincodeCmd] [34;1mchaincodeInvokeOrQuery[0m -> Chaincode invoke successful. result: status:200 payload:"PersonB -> PersonB" 
+[34m2023-10-06 13:28:37.969 IST 0001 INFO[0m [chaincodeCmd] [34;1mchaincodeInvokeOrQuery[0m -> Chaincode invoke successful. result: status:200 payload:"PersonB -> PersonC" 
+[34m2023-10-06 13:28:38.354 IST 0001 INFO[0m [chaincodeCmd] [34;1mchaincodeInvokeOrQuery[0m -> Chaincode invoke successful. result: status:200 payload:"PersonB -> PersonA" 
+[34m2023-10-06 13:28:38.354 IST 0001 INFO[0m [chaincodeCmd] [34;1mchaincodeInvokeOrQuery[0m -> Chaincode invoke successful. result: status:200 payload:"PersonB -> PersonD" 
+[34m2023-10-06 13:28:38.355 IST 0001 INFO[0m [chaincodeCmd] [34;1mchaincodeInvokeOrQuery[0m -> Chaincode invoke successful. result: status:200 payload:"PersonB -> PersonE" 
+===================
+Iteration 5:
+[34m2023-10-06 13:28:38.424 IST 0001 INFO[0m [chaincodeCmd] [34;1mchaincodeInvokeOrQuery[0m -> Chaincode invoke successful. result: status:200 payload:"PersonB -> PersonA" 
+[34m2023-10-06 13:28:38.425 IST 0001 INFO[0m [chaincodeCmd] [34;1mchaincodeInvokeOrQuery[0m -> Chaincode invoke successful. result: status:200 payload:"PersonB -> PersonC" 
+[34m2023-10-06 13:28:38.460 IST 0001 INFO[0m [chaincodeCmd] [34;1mchaincodeInvokeOrQuery[0m -> Chaincode invoke successful. result: status:200 payload:"PersonB -> PersonD" 
+[34m2023-10-06 13:28:38.466 IST 0001 INFO[0m [chaincodeCmd] [34;1mchaincodeInvokeOrQuery[0m -> Chaincode invoke successful. result: status:200 payload:"PersonB -> PersonB" 
+[34m2023-10-06 13:28:38.473 IST 0001 INFO[0m [chaincodeCmd] [34;1mchaincodeInvokeOrQuery[0m -> Chaincode invoke successful. result: status:200 payload:"PersonB -> PersonE" 
+===================
+Iteration 6:
+[34m2023-10-06 13:28:38.937 IST 0001 INFO[0m [chaincodeCmd] [34;1mchaincodeInvokeOrQuery[0m -> Chaincode invoke successful. result: status:200 payload:"PersonC -> PersonD" 
+[34m2023-10-06 13:28:38.938 IST 0001 INFO[0m [chaincodeCmd] [34;1mchaincodeInvokeOrQuery[0m -> Chaincode invoke successful. result: status:200 payload:"PersonC -> PersonE" 
+[34m2023-10-06 13:28:38.939 IST 0001 INFO[0m [chaincodeCmd] [34;1mchaincodeInvokeOrQuery[0m -> Chaincode invoke successful. result: status:200 payload:"PersonC -> PersonA" 
+[34m2023-10-06 13:28:38.940 IST 0001 INFO[0m [chaincodeCmd] [34;1mchaincodeInvokeOrQuery[0m -> Chaincode invoke successful. result: status:200 payload:"PersonC -> PersonC" 
+[34m2023-10-06 13:28:38.941 IST 0001 INFO[0m [chaincodeCmd] [34;1mchaincodeInvokeOrQuery[0m -> Chaincode invoke successful. result: status:200 payload:"PersonC -> PersonB" 
+===================
+Iteration 7:
+[34m2023-10-06 13:28:39.389 IST 0001 INFO[0m [chaincodeCmd] [34;1mchaincodeInvokeOrQuery[0m -> Chaincode invoke successful. result: status:200 payload:"PersonC -> PersonA" 
+[34m2023-10-06 13:28:39.390 IST 0001 INFO[0m [chaincodeCmd] [34;1mchaincodeInvokeOrQuery[0m -> Chaincode invoke successful. result: status:200 payload:"PersonC -> PersonC" 
+[34m2023-10-06 13:28:39.395 IST 0001 INFO[0m [chaincodeCmd] [34;1mchaincodeInvokeOrQuery[0m -> Chaincode invoke successful. result: status:200 payload:"PersonC -> PersonD" 
+[34m2023-10-06 13:28:39.403 IST 0001 INFO[0m [chaincodeCmd] [34;1mchaincodeInvokeOrQuery[0m -> Chaincode invoke successful. result: status:200 payload:"PersonC -> PersonB" 
+[34m2023-10-06 13:28:39.404 IST 0001 INFO[0m [chaincodeCmd] [34;1mchaincodeInvokeOrQuery[0m -> Chaincode invoke successful. result: status:200 payload:"PersonC -> PersonE" 
+===================
+Iteration 8:
+[34m2023-10-06 13:28:39.861 IST 0001 INFO[0m [chaincodeCmd] [34;1mchaincodeInvokeOrQuery[0m -> Chaincode invoke successful. result: status:200 payload:"PersonC -> PersonB" 
+[34m2023-10-06 13:28:39.862 IST 0001 INFO[0m [chaincodeCmd] [34;1mchaincodeInvokeOrQuery[0m -> Chaincode invoke successful. result: status:200 payload:"PersonC -> PersonC" 
+[34m2023-10-06 13:28:39.862 IST 0001 INFO[0m [chaincodeCmd] [34;1mchaincodeInvokeOrQuery[0m -> Chaincode invoke successful. result: status:200 payload:"PersonC -> PersonD" 
+[34m2023-10-06 13:28:39.863 IST 0001 INFO[0m [chaincodeCmd] [34;1mchaincodeInvokeOrQuery[0m -> Chaincode invoke successful. result: status:200 payload:"PersonC -> PersonA" 
+[34m2023-10-06 13:28:39.865 IST 0001 INFO[0m [chaincodeCmd] [34;1mchaincodeInvokeOrQuery[0m -> Chaincode invoke successful. result: status:200 payload:"PersonC -> PersonE" 
+===================
+Iteration 9:
+[34m2023-10-06 13:28:40.220 IST 0001 INFO[0m [chaincodeCmd] [34;1mchaincodeInvokeOrQuery[0m -> Chaincode invoke successful. result: status:200 payload:"PersonC -> PersonE" 
+[34m2023-10-06 13:28:40.220 IST 0001 INFO[0m [chaincodeCmd] [34;1mchaincodeInvokeOrQuery[0m -> Chaincode invoke successful. result: status:200 payload:"PersonC -> PersonB" 
+[34m2023-10-06 13:28:40.221 IST 0001 INFO[0m [chaincodeCmd] [34;1mchaincodeInvokeOrQuery[0m -> Chaincode invoke successful. result: status:200 payload:"PersonC -> PersonA" 
+[34m2023-10-06 13:28:40.221 IST 0001 INFO[0m [chaincodeCmd] [34;1mchaincodeInvokeOrQuery[0m -> Chaincode invoke successful. result: status:200 payload:"PersonC -> PersonC" 
+[34m2023-10-06 13:28:40.222 IST 0001 INFO[0m [chaincodeCmd] [34;1mchaincodeInvokeOrQuery[0m -> Chaincode invoke successful. result: status:200 payload:"PersonC -> PersonD" 
+===================
+Iteration 10:
+[34m2023-10-06 13:28:40.270 IST 0001 INFO[0m [chaincodeCmd] [34;1mchaincodeInvokeOrQuery[0m -> Chaincode invoke successful. result: status:200 payload:"PersonC -> PersonB" 
+[34m2023-10-06 13:28:40.271 IST 0001 INFO[0m [chaincodeCmd] [34;1mchaincodeInvokeOrQuery[0m -> Chaincode invoke successful. result: status:200 payload:"PersonC -> PersonA" 
+[34m2023-10-06 13:28:40.275 IST 0001 INFO[0m [chaincodeCmd] [34;1mchaincodeInvokeOrQuery[0m -> Chaincode invoke successful. result: status:200 payload:"PersonC -> PersonD" 
+[34m2023-10-06 13:28:40.282 IST 0001 INFO[0m [chaincodeCmd] [34;1mchaincodeInvokeOrQuery[0m -> Chaincode invoke successful. result: status:200 payload:"PersonC -> PersonC" 
+[34m2023-10-06 13:28:40.284 IST 0001 INFO[0m [chaincodeCmd] [34;1mchaincodeInvokeOrQuery[0m -> Chaincode invoke successful. result: status:200 payload:"PersonC -> PersonE" 
+===================
